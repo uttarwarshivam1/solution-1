@@ -43,3 +43,4 @@ Applicants will get information regarding next steps in hiring via campus placem
 The final status of hiring for specific position will be made available by recruiters.
 Applicants will be informed about final status of hiring for a particular position.
 
+## Non-Functional Requirements:
