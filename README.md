@@ -54,3 +54,8 @@ The final status of hiring for specific position will be made available by recru
 Applicants will be informed about final status of hiring for a particular position.
 
 ## Non-Functional Requirements:
+1.)Secure access for Confidential Data
+2.)Better component design
+3.)Flexible Service-based architecture
+4.)Robust,Reliable and Fast Database
+5.)24x7 Availability
