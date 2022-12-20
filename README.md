@@ -5,4 +5,4 @@ System Requirement Specification Document
 Online Campus Placement**
 ## team:
 Applicant, Recruitor, Company Coordinator. Business Analyst, System Analyst, Quality Assurance Analyst etc.
-
+## Definitions:
