@@ -5,7 +5,7 @@ System Requirement Specification Document
 Online Campus Placement**
 
 ## Team:
-Applicant, Recruitor, Company Coordinator. Business Analyst, System Analyst, Quality Assurance Analyst etc.
+Applicant, Recruiter, Company Coordinator. Business Analyst, System Analyst, Quality Assurance Analyst etc.
 
 ## Objective (Purpose):
 1)The main objective of Placement Management System is to develop software which manages placement activities in college makes an interactive GUI where Placement Training Officer can manage the details of all students on his console, he can send an email to students informing about placement. activities. This project mainly aims for the final year students.
