@@ -55,7 +55,11 @@ Applicants will be informed about final status of hiring for a particular positi
 
 ## Non-Functional Requirements:
 1.)Secure access for Confidential Data
+  The security of the system is maintained by providing a login interface to the user. Only those who have the login is and password can enter the system.
 2.)Better component design
+  User-Friendly as the system is very interactive and can be easily operated
 3.)Flexible Service-based architecture
 4.)Robust,Reliable and Fast Database
+  Maintainability and reliability if the system is kept very thoroughly as all the records kept in the database have the backups and system can restore if there is     
+  power loss.
 5.)24x7 Availability
