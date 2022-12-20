@@ -14,6 +14,9 @@ Applicant, Recruitor, Company Coordinator. Business Analyst, System Analyst, Qua
 4)Our project provides facilities for maintaining the details of interest of the students. Students are enabled to know about the highlighted positions and skill requirements for the company. Thereby college can identify the requirements and provide required additional courses for the students. It reduces manual work and consumes less paperwork to reduce the time.
 5)To enable companies to view all students detail and system can shortlist students according to their criteria instead of doing manually or waiting till students or graduates physically go to organizations apply.
 
+## Scope:
+
+
 ## Defination:
 SMS: Student Management System
 LM: Log in Module
