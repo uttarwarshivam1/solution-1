@@ -15,7 +15,7 @@ Applicant, Recruitor, Company Coordinator. Business Analyst, System Analyst, Qua
 5)To enable companies to view all students detail and system can shortlist students according to their criteria instead of doing manually or waiting till students or graduates physically go to organizations apply.
 
 ## Scope:
-
+This system automates the Selection process activities that the HR Department has to perform prior to and after the actual act of selecting the students. This system helps in various ways such as saving time and cost of selecting Students and companies. That set of concepts is used to build a system for easily Communication between students and companies and company can get required eligible students.
 
 ## Defination:
 SMS: Student Management System
