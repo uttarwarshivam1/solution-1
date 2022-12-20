@@ -18,13 +18,13 @@ Applicant, Recruiter, Online Campus Placement Coordinator, Business Analyst, Sys
 This system automates the selection process activities that the HR Department has to perform prior to and after the actual act of selecting the students. This system helps in various ways such as saving time and cost of selecting Students and companies. That set of concepts is used to build a system for easily Communication between students and companies and company can get required eligible students.
 
 ## Defination:
-SMS : Student Management System   
-LM : Log in Module   
-RUM : Registered Users Module    
-NUM : Normal Users Module    
-AM : Administrator Module    
-SM : Server Module   
-DB : Database   
+    SMS : Student Management System   
+    LM  : Log in Module   
+    RUM : Registered Users Module    
+    NUM : Normal Users Module    
+    AM  : Administrator Module    
+    SM  : Server Module   
+    DB  : Database   
 
 ## Functional Requirements:
 
