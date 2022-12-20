@@ -7,7 +7,7 @@ Online Campus Placement**
 ## Team:
 Applicant, Recruitor, Company Coordinator. Business Analyst, System Analyst, Quality Assurance Analyst etc.
 
-##Objective (Purpose):
+## Objective (Purpose):
 1)The main objective of Placement Management System is to develop software which manages placement activities in college makes an interactive GUI where Placement Training Officer can manage the details of all students on his console, he can send an email to students informing about placement. activities. This project mainly aims for the final year students.
 2)Although such a project has a very wide scope, this project contains the most important part i.e. displaying the personal and academic information about a student and company.
 3)The key highlight of this project is that it is a one- time online registration enabled. The recruiters are also facilitated to verify and validate student's information.
