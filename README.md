@@ -1,8 +1,7 @@
 # solution
 ## Document:
 System Requirement Specification Document
-## Title: 
-Online Campus Placement**
+## Title: Online Campus Placement**
 
 ## Team:
 Applicant, 
