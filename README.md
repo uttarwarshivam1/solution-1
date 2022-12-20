@@ -6,5 +6,4 @@
 3. Company Coordinator
 4. Business Analyst
 5. System Analyst
-6. Quality Assurance Analyst  
-etc.
+6. Quality Assurance Analyst etc.
