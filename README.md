@@ -58,3 +58,6 @@ Applicants will be informed about final status of hiring for a particular positi
 * Robust,Reliable and Fast Database 
   * Maintainability and reliability of the system is kept very thoroughly as all the records kept in the database have the backups and system can restore if there is power loss.
 * 24x7 Availability
+
+
+
