@@ -59,5 +59,18 @@ Applicants will be informed about final status of hiring for a particular positi
   * Maintainability and reliability of the system is kept very thoroughly as all the records kept in the database have the backups and system can restore if there is power loss.
 * 24x7 Availability
 
+*Safety requirements :
+*All system data is backed up at regular intervals and the backup is stored ondifferent sever for disaster recovery.
 
+*The admin access is restricted to the college network.
 
+*The data is always logged also to recover from loss of data
+
+*Security Requirements :
+*The access to administrator account is restricted to authorized personnel.
+
+*The administrator accounts are only accessible from college network.
+
+*The authentication of user is done by email verification at sign up.
+
+*Computerized login is prevented by the use of capuche code for login
